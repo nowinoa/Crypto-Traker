@@ -8,6 +8,10 @@ The application is deployed on GitHub Pages and can be accessed at the link bell
 
 :point_right:  [Link To Deployed App](https://alanabf.github.io/Project-1-Crypto-Tracker) :point_left:
 
+The link below will take you to the initial repository:
+
+https://github.com/AlanaBF/Project-1-Crypto-Tracker
+
 ## Your Task
 With your team, you'll conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests. You'll also work with agile development methodologies to help you work collaboratively. You'll implement feature and bug fixes using Git branch workflow and pull requests.
 
